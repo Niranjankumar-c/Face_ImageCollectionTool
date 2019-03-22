@@ -1,0 +1,5 @@
+tkintertable
+Pillow
+opencv-contrib-python
+multiprocessing
+
